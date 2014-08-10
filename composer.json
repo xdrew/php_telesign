@@ -1,0 +1,20 @@
+{
+    "name": "xdrew/php_telesign",
+    "type": "symfony-bundle",
+    "description": "Integration of the TeleSign/php_telesign with composer",
+    "keywords": ["telesign"],
+    "homepage": "https://github.com/xdrew/php_telesign",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrei Velent",
+            "email": "ve-lent@tut.by"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "files": [
+        "telesign/api.class.php"
+    ]
+}
