@@ -14,7 +14,9 @@
     "require": {
         "php": ">=5.3.2"
     },
-    "files": [
-        "telesign/api.class.php"
-    ]
+    "autoload": {
+        "files": [
+            "telesign/api.class.php"
+        ]
+    }
 }
